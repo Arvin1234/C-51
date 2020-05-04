@@ -1,0 +1,13 @@
+h1{
+    color:#fafbfc;
+}
+p{
+    color:#000000
+}
+p,h1{
+    text-align: center;
+    color:#ffffff;
+}
+body{
+    background-image: url("background.jpg");
+}
